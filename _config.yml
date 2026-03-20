@@ -23,12 +23,12 @@ repository               : "about/pb-berge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "pb-2024.png"
+  name             : "Dr. PB Berge"
+  pronouns         : "they/her" # example: "she/her"  
+  bio              : "This is a cool bio for PB!"
+  location         : "Edmonton"
+  employer         : "University of Alberta"
   uri              : # URL
   email            : "none@example.org" 
 
