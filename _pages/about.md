@@ -8,3 +8,9 @@ redirect_from:
 ---
 
 This is where you're going to write your epic bio! Tell us about you, your making, your practice, and anything else.
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
