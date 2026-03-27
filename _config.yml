@@ -23,12 +23,12 @@ repository               : "about/pb-berge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pb-2024.png"
-  name             : "Dr. PB Berge"
+  avatar           : "bird.jpg"
+  name             : "Bob Birds"
   pronouns         : "they/her" # example: "she/her"  
-  bio              : "This is a cool bio for PB!"
+  bio              : "This is a cool bio for Bob!"
   location         : "Edmonton"
-  employer         : "University of Alberta"
+  employer         : "Secret University of Alberta"
   uri              : # URL
   email            : "none@example.org" 
 
