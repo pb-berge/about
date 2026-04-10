@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <iframe 
-    src="https://raw.githubusercontent.com/pb-berge/about/refs/heads/master/files/Twine-Design.html" 
+    src="/files/Twine-Design.html" 
     width="800" 
     height="600" 
     frameborder="0">
