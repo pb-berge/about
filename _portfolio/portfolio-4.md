@@ -1,0 +1,12 @@
+---
+title: "Portfolio item number 4"
+excerpt: "Short description of portfolio item number 1<br/><img src='500x300.png'>"
+collection: portfolio
+---
+
+<iframe 
+    src="https://raw.githubusercontent.com/pb-berge/about/refs/heads/master/files/Twine-Design.html" 
+    width="800" 
+    height="600" 
+    frameborder="0">
+</iframe>
