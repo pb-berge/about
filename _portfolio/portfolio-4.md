@@ -8,5 +8,6 @@ collection: portfolio
     src="https://pb-berge.github.io/about/files/Twine-Design.html" 
     width="800" 
     height="600" 
+    allow="fullscreen"
     frameborder="0">
 </iframe>
